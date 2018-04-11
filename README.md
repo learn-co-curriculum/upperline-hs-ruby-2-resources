@@ -6,7 +6,7 @@
 All right, all right, all right.
 
 ### Resources
-* [Ruby Core Documentation](http://www.ruby-doc.org/core-2.1.1/) - Scroll down to search for **classes** (like String and Integer) and **methods** (like `reverse` and `uppcase`).
+* [Ruby Core Documentation](http://www.ruby-doc.org/core-2.1.1/) - Scroll down to search for **classes** (like String and Integer) and **methods** (like `reverse` and `upcase`).
 * Learn to Program by Chris Pine - [Chapter 5: More About Methods](https://pine.fm/LearnToProgram/?Chapter=05)
 * The Bastards Book of Ruby - [Methods](http://ruby.bastardsbook.com/chapters/methods/)
 
